@@ -4,3 +4,6 @@
 local opt = vim.opt
 
 opt.guicursor = 'n-v-c-sm:ver25,i-ci-ve:ver25,r-cr-o:hor20'
+opt.relativenumber = false
+opt.shiftwidth = 4
+opt.tabstop = 4
